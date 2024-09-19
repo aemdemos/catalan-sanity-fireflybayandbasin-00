@@ -1,0 +1,197 @@
+{
+  "url": "https://fireflybayandbasin.com/",
+  "sanitizedPath": "/index",
+  "autoDetect": false,
+  "mapping": [
+    {
+      "id": "1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [
+            {
+              "id": "box-id-763685735",
+              "x": 0,
+              "y": 0,
+              "width": 2884,
+              "height": 128,
+              "xpath": "/html[1]/body[1]/div[5]/div[1]",
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "/body[@class=\"home page-template page-template-elementor_header_footer page page-id-237 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-237 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit\"]/div[@class=\"elementor elementor-161 elementor-location-header\"]/div[@class=\"elementor-element elementor-element-b3a78d8 e-flex e-con-boxed e-con e-parent e-lazyloaded elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects\"]/div[@class=\"e-con-inner\"]/div[@class=\"elementor-element elementor-element-036e152 elementor-widget elementor-widget-theme-site-logo elementor-widget-image\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/body[@class=\"home page-template page-template-elementor_header_footer page page-id-237 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-237 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit\"]/div[@class=\"elementor elementor-161 elementor-location-header\"]/div[@class=\"elementor-element elementor-element-b3a78d8 e-flex e-con-boxed e-con e-parent e-lazyloaded elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects\"]/div[@class=\"e-con-inner\"]/div[@class=\"elementor-element elementor-element-889ee13 elementor-nav-menu__align-start elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu\"]"
+                }
+              ],
+              "color": "rgb(0, 255, 0)",
+              "mapping": "header",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "path": "/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--1043768728",
+              "x": 0,
+              "y": 0,
+              "width": 2884,
+              "height": 1690,
+              "xpath": "/html[1]/body[1]/div[6]/div[1]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 1
+              },
+              "color": "rgba(255, 255, 0, 0.4)",
+              "mapping": "defaultContent",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id--1043768697",
+              "x": 0,
+              "y": 1690,
+              "width": 2884,
+              "height": 803,
+              "xpath": "/html[1]/body[1]/div[6]/div[2]",
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[2]/div[1]/div[2]/div[1]",
+                  "xpathWithDetails": "id(\"about\")/div[@class=\"e-con-inner\"]/div[@class=\"elementor-element elementor-element-20d3db1 e-con-full e-flex e-con e-child\"]/div[@class=\"elementor-element elementor-element-ca09214 e-con-full e-flex e-con e-child\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[2]/div[1]/div[2]/div[2]",
+                  "xpathWithDetails": "id(\"about\")/div[@class=\"e-con-inner\"]/div[@class=\"elementor-element elementor-element-20d3db1 e-con-full e-flex e-con e-child\"]/div[@class=\"elementor-element elementor-element-88ff806 e-con-full e-flex e-con e-child\"]"
+                }
+              ],
+              "color": "rgba(255, 255, 0, 0.4)",
+              "mapping": "hero",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id--1043768666",
+              "x": 0,
+              "y": 2493,
+              "width": 2884,
+              "height": 165,
+              "xpath": "/html[1]/body[1]/div[6]/div[3]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 1
+              },
+              "color": "rgba(255, 255, 0, 0.4)",
+              "mapping": "defaultContent",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id--1043768635",
+              "x": 0,
+              "y": 2658,
+              "width": 2884,
+              "height": 2046,
+              "xpath": "/html[1]/body[1]/div[6]/div[4]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 1
+              },
+              "color": "rgba(255, 255, 0, 0.4)",
+              "mapping": "defaultContent",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id-1608919170",
+              "x": 432,
+              "y": 4891,
+              "width": 2018,
+              "height": 818,
+              "xpath": "/html[1]/body[1]/div[6]/div[5]/div[1]/div[3]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[5]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "/body[@class=\"home page-template page-template-elementor_header_footer page page-id-237 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-237 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit\"]/div[@class=\"elementor elementor-237\"]/div[@class=\"elementor-element elementor-element-15e125f e-flex e-con-boxed e-con e-parent e-lazyloaded\"]/div[@class=\"e-con-inner\"]/div[@class=\"elementor-element elementor-element-c3d16fb elementor-widget elementor-widget-jet-listing-grid\"]/div[@class=\"elementor-widget-container\"]/div[@class=\"jet-listing-grid jet-listing\"]/div[@class=\"jet-listing-grid__items grid-col-desk-3 grid-col-tablet-2 grid-col-mobile-1 jet-listing-grid--2293 jet-equal-columns__wrapper\"]/div[@class=\"jet-listing-grid__item jet-listing-dynamic-post-4032 jet-equal-columns\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[5]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/body[@class=\"home page-template page-template-elementor_header_footer page page-id-237 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-237 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit\"]/div[@class=\"elementor elementor-237\"]/div[@class=\"elementor-element elementor-element-15e125f e-flex e-con-boxed e-con e-parent e-lazyloaded\"]/div[@class=\"e-con-inner\"]/div[@class=\"elementor-element elementor-element-c3d16fb elementor-widget elementor-widget-jet-listing-grid\"]/div[@class=\"elementor-widget-container\"]/div[@class=\"jet-listing-grid jet-listing\"]/div[@class=\"jet-listing-grid__items grid-col-desk-3 grid-col-tablet-2 grid-col-mobile-1 jet-listing-grid--2293 jet-equal-columns__wrapper\"]/div[@class=\"jet-listing-grid__item jet-listing-dynamic-post-3998 jet-equal-columns\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[5]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "/body[@class=\"home page-template page-template-elementor_header_footer page page-id-237 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-237 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit\"]/div[@class=\"elementor elementor-237\"]/div[@class=\"elementor-element elementor-element-15e125f e-flex e-con-boxed e-con e-parent e-lazyloaded\"]/div[@class=\"e-con-inner\"]/div[@class=\"elementor-element elementor-element-c3d16fb elementor-widget elementor-widget-jet-listing-grid\"]/div[@class=\"elementor-widget-container\"]/div[@class=\"jet-listing-grid jet-listing\"]/div[@class=\"jet-listing-grid__items grid-col-desk-3 grid-col-tablet-2 grid-col-mobile-1 jet-listing-grid--2293 jet-equal-columns__wrapper\"]/div[@class=\"jet-listing-grid__item jet-listing-dynamic-post-4007 jet-equal-columns\"]"
+                }
+              ],
+              "color": "rgba(255, 255, 0, 0.2)",
+              "mapping": "cards",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id-1443744105",
+              "x": 0,
+              "y": 5868,
+              "width": 2884,
+              "height": 274,
+              "xpath": "/html[1]/body[1]/div[7]/div[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(255, 127, 0, 0.4)",
+              "mapping": "defaultContent",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [
+            {
+              "id": "box-id-1443744167",
+              "x": 0,
+              "y": 6152,
+              "width": 2884,
+              "height": 56,
+              "xpath": "/html[1]/body[1]/div[7]/div[3]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(255, 127, 0, 0.4)",
+              "mapping": "defaultContent",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}
